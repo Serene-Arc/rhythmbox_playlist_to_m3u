@@ -7,6 +7,7 @@ name = "rhythmboxm3uconverter"
 description = ""
 readme = "README.md"
 dependencies = []
+version = "0.1.0"
 
 [project.optional-dependencies]
 dev = [
